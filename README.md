@@ -66,7 +66,7 @@ When no info in injury, I updated the data with "unknown".
 
 #1 I removed the lines from cases before christ as those were incompletes, outliers and with errors.   
 #2 Cleaning the data in the Year column:
-    some was not dates, many had text in it. 
+    some were not dates, many had text in it. 
     Final result: only years, "unknown" else.
     6 lines were droped for lack of data.
     5 lines were droped for outliers: years below 1000.
